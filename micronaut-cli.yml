@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.spock.mock.bug
+---
+testFramework: spock
+sourceLanguage: java
